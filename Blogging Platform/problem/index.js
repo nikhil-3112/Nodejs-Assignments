@@ -1,4 +1,4 @@
-import readline from "readline";
+import * as readline from "readline";
 import { publishBlog, writeBlog } from "./blogActions.js";
 
 const iface = readline.createInterface({

@@ -21,6 +21,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  
   "dependencies": {
     "jest-json-reporter": "^1.2.2",
     "nodemailer": "^6.9.3",
