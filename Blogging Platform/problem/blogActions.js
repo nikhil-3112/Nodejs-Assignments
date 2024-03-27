@@ -6,3 +6,4 @@ export const writeBlog = (filePath, name) => {
 export const publishBlog = (filePath) => {
   return fs.readFileSync(filePath, { encoding: "utf8" });
 };
+s
